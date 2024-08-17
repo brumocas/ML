@@ -83,12 +83,12 @@ Ensure you have the following software installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/brumocas/ML_Course_Repo.git
+   git clone https://github.com/brumocas/ML.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd ML_Course_Repo
+   cd ML
    ```
 
 3. (Optional) Create a virtual environment:
