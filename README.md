@@ -83,7 +83,7 @@ Ensure you have the following software installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ML_Course_Repo.git
+   git clone https://github.com/brumocas/ML_Course_Repo.git
    ```
 
 2. Navigate to the project directory:
